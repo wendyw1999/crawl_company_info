@@ -54,7 +54,7 @@ import pdfplumber
 ```
 
 # 实际操作
-请查看[https://github.com/wendyw1999/crawl_company_info/blob/master/pdf_crawl.ipynb](crawl_company notebook)
+请查看[https://github.com/wendyw1999/crawl_company_info/blob/master/pdf_crawl.ipynb] (crawl_company notebook)
 
 
 ### initialize selenium Driver
